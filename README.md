@@ -1,28 +1,21 @@
 # PBO4
 Penugasan matakuliah pemrograman berorientasi obyek keempat
 
+Saya Umar Abdul Aziz akan mencoba untuk mengimplementasikan Java CRUD berbasis text yang akan mengintegrasikan dengan Postgree SQL
 
-### **Tools yang Berguna**
 
-* **GitHub Flavored Markdown:** Pelajari sintaks Markdown yang didukung oleh GitHub.
-* **Shields.io:** Buat badge untuk menampilkan informasi tentang proyekmu.
-* **GitHub Pages:** Untuk membuat halaman website statis dari README.md.
-* **README.so:** Alat untuk membuat README.md dengan mudah dan cepat.
+### **Menu yang tersedia**
 
-### **Inspirasi**
+* **Memasukkan data** 
+* **Menampilkan data**
+* **Menghapus data** 
+* **Memperbarui/mengubah data**
+* **Menghapus semua data dari tabel**
+* ***Mencari data sesuai dengan NIM yang diinginkan**
 
-* **Awesome GitHub Profiles:** Cari inspirasi dari profil GitHub pengguna lain yang menarik.
-* **Templat README:** Gunakan templat README yang sudah jadi untuk mempercepat proses pembuatan.
+  
+## Kontak
 
-**Tips Tambahan:**
-
-* **Jaga Konsistensi:** Gunakan gaya penulisan dan format yang konsisten di seluruh README.md.
-* **Perbarui Secara Berkala:** Perbarui README.md setiap kali ada perubahan signifikan pada proyekmu.
-* **Minta Feedback:** Mintalah teman atau kolegamu untuk memberikan feedback tentang README.md kamu.
-
-Dengan mengikuti tips di atas, kamu bisa membuat README.md yang tidak hanya informatif, tetapi juga menarik dan estetik. Selamat mencoba!
-
-**Ingin tahu lebih banyak?**
-
-* **Cara Membuat Profile Github Simple dan Menarik:** [https://codepolitan.com/blog/cara-membuat-profile-github-simple-dan-menarik](https://codepolitan.com/blog/cara-membuat-profile-github-simple-dan-menarik)
-* **Cara Buat Profile Github README.md:** [https://medium.com/@bagusfe/cara-buat-profile-github-readme-md-9f336a00aca9](https://medium.com/@bagusfe/cara-buat-profile-github-readme-md-9f336a00aca9)
+[![GitHub](https://your-repository/github-icon.png)](https://github.com/your-username)
+[![Twitter](https://your-repository/twitter-icon.png)](https://twitter.com/your-username)
+[![LinkedIn](https://your-repository/linkedin-icon.png)](https://www.linkedin.com/in/your-username)
