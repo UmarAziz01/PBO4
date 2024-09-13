@@ -1,4 +1,4 @@
-# PBO4😊🤗😯😯
+# PBO4😊🤗👋
 Penugasan matakuliah pemrograman berorientasi obyek keempat
 
 Saya Umar Abdul Aziz akan mencoba untuk mengimplementasikan Java CRUD berbasis text yang akan mengintegrasikan dengan Postgree SQL
@@ -13,13 +13,8 @@ Saya Umar Abdul Aziz akan mencoba untuk mengimplementasikan Java CRUD berbasis t
 * **Menghapus semua data dari tabel**
 * **Mencari data sesuai dengan NIM yang diinginkan**
 
-## Kontakkuu
+
 ## Kontak
+https://www.linkedin.com/in/umar-abdul-aziz-b95435273/
+https://www.instagram.com/u_maraziz/
 
-Hi 👋
-A passionate software developer from Surabaya, Indonesia
-👨‍💻 All of my projects are available at https://portofolio-achmad96.vercel.app/
-
-📝 I regularly write articles on https://portofolio-achmad96.vercel.app/posts
-
-📫 How to reach me totsukamail3278@gmail.com
