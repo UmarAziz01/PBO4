@@ -27,8 +27,11 @@ Yang didalamnya digunakan untuk mendefinisikan custom exception yang punya nama 
 Yang didalamnya beberapa deklarasi variable yang diperlukan dan ada 7 method/menu utama yang berfungsi untuk mengolah database dengan memasukkan, menampilkan, menghapus, memperbarui, mencari sesuai NIM, menghapus seluruh baris yang telah tersimpan, dan mengakhiri program.Serta didalam class ini juga mengimport beberapa fungsi java yang diperlukan program CRUD. Dan tidak lupa untuk mengimport JDBC ke libraries project yang digunakan.
  
   a. Import fungsi java
- b.	Deklarasi public class beserta variabel yang dibutuhkan, beserta membuat koneksi untuk bisa terhubung dengan database
+  
+  b.	Deklarasi public class beserta variabel yang dibutuhkan, beserta membuat koneksi untuk bisa terhubung dengan database
+ 
  c.	Membuat method  tambah() yang menerapkan Try-Catch Exception
+
  d.	Membuat method  tampil() yang menerapkan Try-Catch Exception
  e.	Membuat method  hapus() yang menerapkan Try-Catch Exception
  f.	Membuat method  update() yang menerapkan Try-Catch Exception
