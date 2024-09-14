@@ -18,7 +18,7 @@ https://www.instagram.com/u_maraziz/
 '#'Penugasan matakuliah pemrograman berorientasi obyek keempat
 
 ------------------------------------------------------------------------------------------
-Menerapkan Java CRUD, Exception (Try-Catch, Throws, dan Custom)
+### Menerapkan Java CRUD, Exception (Try-Catch, Throws, dan Custom)
 
 1.	Langkah pertama membuat class untuk custom exception
 Yang didalamnya digunakan untuk mendefinisikan custom exception yang punya nama DataTidakDitemukanException yang menjadikan Exception sebagai superClass
@@ -33,13 +33,23 @@ Yang didalamnya beberapa deklarasi variable yang diperlukan dan ada 7 method/men
  c.	Membuat method  tambah() yang menerapkan Try-Catch Exception
 
  d.	Membuat method  tampil() yang menerapkan Try-Catch Exception
+
  e.	Membuat method  hapus() yang menerapkan Try-Catch Exception
+ 
  f.	Membuat method  update() yang menerapkan Try-Catch Exception
+ 
  g.	Membuat method  hapusSemua() yang menerapkan Try-Catch Exception
+ 
  h.	Membuat method  cariDataByNIM() yang menerapkan Try-Catch Exception dan Custom Exception
+ 
  i.	Membuat method  menu() yang menerapkan Try-Catch Exception 
+ 
  j.	Membuat main method  untuk program ini
+ 
  k.	Dan selanjutnya yang terakhir jangan lupa untuk memasukkan JDBC ke Libraries java, sehingga file jar JDBC muncul dan siap digunakan
+ 
  l.	Dan langkah yang tidak boleh terlupakan adalah membuat database dan tabel yang sesuai dengan deklarasi nilai yang sudah dituliskan di program java ini ke PostgreSQL
+ 
  m.	Dan jalankan program sehingga muncul konsol dengan tampilan menu seperti gambar dibawah ini
+ 
  n.	Selamat anda berhasil membuat program Java CRUD x PostgreSQL
