@@ -40,7 +40,7 @@ Ikuti kode program yang sudah saya bagikan diatas
 
 # Langkah Ketiga  
 **Mengimplementasikan Exception** pada program ini terdapat beberapa penanganan error dibeberapa method namun saya akan menjelaskan pada bagian cariDataByNIM(). method tersebut akan menjalankan beberapa langkah untuk memenuhi kebutuhan program yakni mulai dari berkoneksi dengan database, meminta input an nim yang diinginkan pengguna, menjalankan query untuk mencari data berdasarkan NIM, jika data ditemukan maka akan menampilkan hasil pencarian dari database, jika tidak data yang ditemukan maka custom exception menanggani program dan menampilkan pesan error kepada pengguna.
-```
+```java
 public void cariDataByNIM() throws DataTidakDitemukanException {
         try {
             Class.forName(driver);
@@ -81,5 +81,14 @@ public void cariDataByNIM() throws DataTidakDitemukanException {
         }
     }
 
-Dan ikuti kode program yang sudah saya bagikan diatas
-```
+
+# Hasil Pencarian Data  
+**Data yang ditampilkan dari method cariDataByNIMm** akan terbagi menjadi dua
+
+## Tampilan jika data ditemukan
+> Data akan ditampilkan dari database anda sesuai permintaan anda
+ NIM  | Nama  | Kelamin | Umur
+ 12345  | John Doe  | L  | 20
+
+## Tampilan jika data tidak ditemukan
+Error: Data dengan NIM 12345 tidak ditemukan.
