@@ -80,7 +80,7 @@ public void cariDataByNIM() throws DataTidakDitemukanException {
             }
         }
     }
-
+```
 
 # Hasil Pencarian Data  
 **Data yang ditampilkan dari method cariDataByNIMm** akan terbagi menjadi dua
