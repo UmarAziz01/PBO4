@@ -83,7 +83,7 @@ public void cariDataByNIM() throws DataTidakDitemukanException {
 ```
 
 # Hasil Pencarian Data  
-**Data yang ditampilkan dari method cariDataByNIMm** akan terbagi menjadi dua
+**Data yang ditampilkan dari method cariDataByNIM** akan terbagi menjadi dua
 
 ## Tampilan jika data ditemukan
 > Data akan ditampilkan dari database anda sesuai permintaan anda
@@ -91,4 +91,4 @@ public void cariDataByNIM() throws DataTidakDitemukanException {
  12345  | John Doe  | L  | 20
 
 ## Tampilan jika data tidak ditemukan
-Error: Data dengan NIM 12345 tidak ditemukan.
+> Error: Data dengan NIM 12345 tidak ditemukan.
